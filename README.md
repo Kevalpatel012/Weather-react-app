@@ -1,7 +1,7 @@
 # Weather-react-app
 
 
-Weather app that uses react and javascript. I use OpenWeatherMap, a third-party API that gives me the weather data. And GeoDB Cities api it gets global city, region, and country data
+Weather app that uses react and javascript. I use [OpenWeatherApi](https://openweathermap.org/api), a third-party rest API that gives me the weather data And [Geodb-cities](https://rapidapi.com/wirefreethought/api/geodb-cities) it gets global city, region, and country data
 
 ![Alt Text](weatherapp.gif)
 
@@ -33,3 +33,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+
+
