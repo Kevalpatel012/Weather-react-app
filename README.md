@@ -1,7 +1,7 @@
 # Weather-react-app
 
 
-Weather app that provides users with up-to-date weather conditions, including temperature, precipitation, wind speed, pressure, and humidity. Additionally, it offers detailed information on the current weather, such as wind, feels-like, and air pressure. Users can also access weather forecasts for the upcoming week, providing them with an overview of what to expect for the following week. The weather app that uses react and JavaScript. It uses [OpenWeatherApi](https://openweathermap.org/api), a third-party rest API that gives the weather data And [Geodb-cities](https://rapidapi.com/wirefreethought/api/geodb-cities) a api that gets global city data, region data, and country data
+Weather app that provides users with up-to-date weather conditions, including temperature, precipitation, wind speed, pressure, and humidity. Additionally, it offers detailed information on the current weather, such as wind, feels-like, and air pressure. Users can also access weather forecasts for the upcoming week, providing them with an overview of what to expect for the following week. The weather app uses react and JavaScript. It uses [OpenWeatherApi](https://openweathermap.org/api), a third-party rest API that gives the weather data And [Geodb-cities](https://rapidapi.com/wirefreethought/api/geodb-cities) a api that gets global city data, region data, and country data
 
 
 ![Alt Text](weatherapp.gif)
